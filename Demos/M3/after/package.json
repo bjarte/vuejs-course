@@ -9,7 +9,7 @@
     "bootswatch": "4.0.0",
     "@fortawesome/fontawesome-free-webfonts": "1.0.5",
     "vue": "2.5.16",
-    "axios": "0.18.0",
+    "axios": "0.20.0",
     "lodash": "4.17.5",
     "vee-validate": "2.0.6"
   }
